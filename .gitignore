@@ -1,0 +1,20 @@
+# --- Gizli bilgiler: ASLA commit edilmez ---
+credentials/
+*.json
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Çalışma sırasında oluşan dosyalar
+*.mp3
+runs/
+
+# IDE / işletim sistemi
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

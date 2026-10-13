@@ -1,7 +1,7 @@
 # Üçüncü taraf bileşenler
 
 `LICENSE` dosyasındaki MIT lisansı yalnızca bu depodaki **kendi yazdığım kaynak kodu** kapsar
-(`src/`, `tests/`, `export.py`).
+(`src/`, `scripts/`, `export.py`).
 
 Aşağıdaki dosyalar MIT kapsamında **değildir**; kendi lisanslarına tabidir:
 

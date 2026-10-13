@@ -18,6 +18,3 @@ try:
     print("\n[BAŞARILI] Model başarıyla çevrildi!")
 except Exception as e:
     print(f"\n[HATA] Bir sorun oluştu: {e}")
-
-    #export GOOGLE_APPLICATION_CREDENTIALS="/C:/smart-glasses-492614-0ff024ff67db.json/492614-0ff024ff67db.json"
-    #$env:GOOGLE_APPLICATION_CREDENTIALS="C:\smart-glasses-492614-0ff02c610996\492614-0ff024ff67db.json"
